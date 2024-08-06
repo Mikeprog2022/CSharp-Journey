@@ -1,0 +1,15 @@
+I:\Dev Learning\Journeys\C#\cSharpBasics\bin\Debug\net8.0\cSharpBasics.exe
+I:\Dev Learning\Journeys\C#\cSharpBasics\bin\Debug\net8.0\cSharpBasics.deps.json
+I:\Dev Learning\Journeys\C#\cSharpBasics\bin\Debug\net8.0\cSharpBasics.runtimeconfig.json
+I:\Dev Learning\Journeys\C#\cSharpBasics\bin\Debug\net8.0\cSharpBasics.dll
+I:\Dev Learning\Journeys\C#\cSharpBasics\bin\Debug\net8.0\cSharpBasics.pdb
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.AssemblyInfoInputs.cache
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.AssemblyInfo.cs
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.csproj.CoreCompileInputs.cache
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.sourcelink.json
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.dll
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\refint\cSharpBasics.dll
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.pdb
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\cSharpBasics.genruntimeconfig.cache
+I:\Dev Learning\Journeys\C#\cSharpBasics\obj\Debug\net8.0\ref\cSharpBasics.dll
