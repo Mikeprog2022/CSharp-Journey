@@ -1,4 +1,4 @@
-# C#_Journey
+<!-- # C#_Journey -->
 This is my journey to becoming a C# pro to aid in my career pursuit as a .NET developer.
 
 ## Overview
@@ -7,5 +7,9 @@ To run them install visual studio, navigate to a project folder, access the term
 
 ### Things learnt:
 
-
+- C# Basics
+- Variables
+- Datatypes
+- Arithmetics Operations
+- Type Conversion
 
