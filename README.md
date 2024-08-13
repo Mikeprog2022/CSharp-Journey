@@ -1,4 +1,4 @@
-<!-- # C#_Journey -->
+# C#_Journey
 This is my journey to becoming a C# pro to aid in my career pursuit as a .NET developer.
 
 ## Overview
